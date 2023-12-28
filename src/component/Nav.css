@@ -1,0 +1,58 @@
+.first{
+    /* border: 2px solid red; */
+    height: 70px;
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+
+}
+.seco{
+    margin: 15px;
+}
+.third{
+    border: 2px solid red;
+}
+.phone{
+    background-color:green;
+    margin: 10px;
+    font-size: 20px;
+}
+.enq{
+    
+    background-color: brown;
+    margin:20px;
+    font-size: 20px;
+}
+.thir{
+    margin-left: 300px;
+    font-size: 20px;
+    color: aliceblue;
+    
+}
+.cal{
+    margin:10px;
+    color: white;
+
+}
+.int{
+    margin:10px;
+
+}
+.eml{
+    margin:10px;
+    
+    
+
+}
+.you{
+    margin:10px;
+
+}
+.cal{
+    margin:10px;
+
+}
+.face{
+
+}
+
